@@ -3,4 +3,5 @@ function main() {
     for (let i = 0; i < 19; i++) {
         a++;
     }
+    return a;
 }
